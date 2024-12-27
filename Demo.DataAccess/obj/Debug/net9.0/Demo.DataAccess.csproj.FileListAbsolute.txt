@@ -1,0 +1,5 @@
+C:\Users\a0970\Desktop\windows forms\MVC\Demo.DataAccess\obj\Debug\net9.0\Demo.DataAccess.csproj.AssemblyReference.cache
+C:\Users\a0970\Desktop\windows forms\MVC\Demo.DataAccess\obj\Debug\net9.0\Demo.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a0970\Desktop\windows forms\MVC\Demo.DataAccess\obj\Debug\net9.0\Demo.DataAccess.AssemblyInfoInputs.cache
+C:\Users\a0970\Desktop\windows forms\MVC\Demo.DataAccess\obj\Debug\net9.0\Demo.DataAccess.AssemblyInfo.cs
+C:\Users\a0970\Desktop\windows forms\MVC\Demo.DataAccess\obj\Debug\net9.0\Demo.DataAccess.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+C:\Users\a0970\Desktop\windows forms\MVC\Demo.Models\bin\Debug\net8.0\Demo.Models.deps.json
+C:\Users\a0970\Desktop\windows forms\MVC\Demo.Models\bin\Debug\net8.0\Demo.Models.dll
+C:\Users\a0970\Desktop\windows forms\MVC\Demo.Models\bin\Debug\net8.0\Demo.Models.pdb
+C:\Users\a0970\Desktop\windows forms\MVC\Demo.Models\obj\Debug\net8.0\Demo.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a0970\Desktop\windows forms\MVC\Demo.Models\obj\Debug\net8.0\Demo.Models.AssemblyInfoInputs.cache
+C:\Users\a0970\Desktop\windows forms\MVC\Demo.Models\obj\Debug\net8.0\Demo.Models.AssemblyInfo.cs
+C:\Users\a0970\Desktop\windows forms\MVC\Demo.Models\obj\Debug\net8.0\Demo.Models.csproj.CoreCompileInputs.cache
+C:\Users\a0970\Desktop\windows forms\MVC\Demo.Models\obj\Debug\net8.0\Demo.Models.dll
+C:\Users\a0970\Desktop\windows forms\MVC\Demo.Models\obj\Debug\net8.0\refint\Demo.Models.dll
+C:\Users\a0970\Desktop\windows forms\MVC\Demo.Models\obj\Debug\net8.0\Demo.Models.pdb
+C:\Users\a0970\Desktop\windows forms\MVC\Demo.Models\obj\Debug\net8.0\ref\Demo.Models.dll
+C:\Users\a0970\Desktop\windows forms\MVC\Demo.Models\obj\Debug\net8.0\Demo.Models.csproj.AssemblyReference.cache

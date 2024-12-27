@@ -1,0 +1,12 @@
+C:\Users\a0970\Desktop\windows forms\MVC\Demo.Utility\bin\Debug\net8.0\Demo.Utility.deps.json
+C:\Users\a0970\Desktop\windows forms\MVC\Demo.Utility\bin\Debug\net8.0\Demo.Utility.dll
+C:\Users\a0970\Desktop\windows forms\MVC\Demo.Utility\bin\Debug\net8.0\Demo.Utility.pdb
+C:\Users\a0970\Desktop\windows forms\MVC\Demo.Utility\obj\Debug\net8.0\Demo.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a0970\Desktop\windows forms\MVC\Demo.Utility\obj\Debug\net8.0\Demo.Utility.AssemblyInfoInputs.cache
+C:\Users\a0970\Desktop\windows forms\MVC\Demo.Utility\obj\Debug\net8.0\Demo.Utility.AssemblyInfo.cs
+C:\Users\a0970\Desktop\windows forms\MVC\Demo.Utility\obj\Debug\net8.0\Demo.Utility.csproj.CoreCompileInputs.cache
+C:\Users\a0970\Desktop\windows forms\MVC\Demo.Utility\obj\Debug\net8.0\Demo.Utility.dll
+C:\Users\a0970\Desktop\windows forms\MVC\Demo.Utility\obj\Debug\net8.0\refint\Demo.Utility.dll
+C:\Users\a0970\Desktop\windows forms\MVC\Demo.Utility\obj\Debug\net8.0\Demo.Utility.pdb
+C:\Users\a0970\Desktop\windows forms\MVC\Demo.Utility\obj\Debug\net8.0\ref\Demo.Utility.dll
+C:\Users\a0970\Desktop\windows forms\MVC\Demo.Utility\obj\Debug\net8.0\Demo.Utility.csproj.AssemblyReference.cache
